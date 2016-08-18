@@ -1,0 +1,17 @@
+{
+    "name": "yanonekaffeesatz-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/yanonekaffeesatz-bower.git"
+    },
+    "description": "Yanone Kaffeesatz font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
